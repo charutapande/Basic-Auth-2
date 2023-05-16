@@ -29,7 +29,8 @@
 				"vscjava.vscode-java-pack",
 				"vmware.vscode-boot-dev-pack",
 				"vmware.vscode-spring-boot",
-				"github.copilot"
+				"github.copilot",
+				"postman.postman-for-vscode"
 			]
 		}
 	}
